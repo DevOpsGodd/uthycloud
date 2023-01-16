@@ -15,5 +15,3 @@ I'm a DevOps Engineer, Open Source Enthusiast and a Technical Writer. I'm passio
 
 ---
 
-
-| ------------- | ------------- |
