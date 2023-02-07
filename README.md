@@ -10,8 +10,8 @@ I'm a DevOps Engineer, Open Source Enthusiast and a Technical Writer. I'm passio
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning Terraform, Docker, and Kubernetes.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: DevOps Engineer or Cloud Engineer(Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing huxman69@gmail.com.
+- 💼 Job interests: DevOps Engineer or Cloud Engineer.
+- 📫 You can [view my resume](https://drive.google.com/drive/folders/1oSMj-hgMZfKynW2rGpZZZ-WnW-LxZo8h) and contact me by emailing huxman69@gmail.com.
 
 ---
 
